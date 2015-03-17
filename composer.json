@@ -1,0 +1,13 @@
+{
+    "name": "etsy/feature",
+    "description": "Etsy's Feature flagging API used for operational rampups and A/B testing.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Code as Craft",
+            "email": "codeascraft@etsy.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
